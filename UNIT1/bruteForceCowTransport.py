@@ -12,6 +12,7 @@ def brute_force_cow_transport(cows,limit):
             for elemento in nListas:
                 tmpLista.append(cows[elemento])
             nListasSuma.append(sum(tmpLista))
+        #https://docs.python.org/3/library/functions.html#all
         if all(suma<=limit for suma in nListasSuma):
             tListas.append(p)
     minimoLongitud = float("inf")
