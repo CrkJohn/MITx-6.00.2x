@@ -1,4 +1,8 @@
-##
+##Add Code RectangularRoom
+
+
+
+
 ##Problem 2: Robot Class
 ##0.0/10.0 puntos (calificados)
 ##In ps2.py we provided you with the Robot class, which stores the position and direction of a robot. For this class, decide what fields you will use and decide how the following operations are to be performed:
